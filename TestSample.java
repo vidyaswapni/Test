@@ -7,4 +7,9 @@ class TestSample{
   {
     
   }
+  
+   function ad()
+  {
+    
+  }
 }
